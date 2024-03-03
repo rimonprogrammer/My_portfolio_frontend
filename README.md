@@ -1,7 +1,7 @@
 <p>Hi there,</p>
 <h4>I'm Nobenur Islam Rimon</h4>
-<p>I'm an expert front end web developer</p>
-
+<p>I'm an expert front-end web developer</p>
+<img src="https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/411878320_316203688041623_3075447041091224210_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_ohc=Z5OUzvxbKGkAX-PjqZv&_nc_oc=AQnW5PPtoIdQfo8ZTxRAyehOqPdR1bjYepi26w2vA4_kb5xONVOMAuZgcfQtQ15WPS8&_nc_ht=scontent.fdac24-3.fna&oh=00_AfDiM8HeUnaabxtlYAPPRwy5H2lPx2OdrgDgGcFngo0BeQ&oe=65E9D5A1" alt="MD Nobenur Islam Rimon picture" />
 <p>I am a professional front-end web developer having core expertise in developing high-quality, interactive, pixel-perfect, and responsive web applications. I've 1+ years of experience in the web development field & I've already completed 20+ projects. I'm an expert in HTML, CSS, Bootstrap, JavaScript & React. Also, I can build user authentication + Bcrypt-JS security, Complete CRUD operation, & rest API creation using Node-JS, express-JS, and MongoDB.</p>
 <p>My coding is full fresh hand type, SEO friendly, & well commented. As a professional front-end web developer, new technology learning is my passion, and still now, continuously I'm improving my skills</p>
 
