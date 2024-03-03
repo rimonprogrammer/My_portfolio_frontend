@@ -44,8 +44,9 @@ function Portfolio() {
                                       <div data-aos='zoom-in'>
                                           <div className="portfolio_box animate">
                                               <img src={featureImg} alt={title} />
-                                            <p>{featureImg}</p>
                                               <div className='p-2'>
+                                                   <p>{featureImg}</p>
+                                                   <h4 className='text-light m-0 mb-2 project-title'>{title}</h4>  
                                                   <p className='text-light m-0 '>Technology: {technology}</p>
                                                   <Link to={`/ParticularProject/${id}`} className='text-decoration-none'>
                                                         
