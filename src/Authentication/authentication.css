@@ -1,0 +1,169 @@
+/* -----register page start --- */
+.home-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.home-btn{
+    padding: 5px;
+    border: none;
+    outline: none;
+    margin: 5px;
+    font-size: 20px;
+    color: beige;
+    background-color: transparent;
+}
+.access-btn{
+    border: none;
+    outline: none;
+    color: beige;
+    margin: 0 5px 5px 5px;
+    background-color: transparent;
+}
+
+
+.admin-access{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.addmin-pasword,
+.form{
+    width: 50%;
+}
+
+.admin-access-next-btn{
+    border: none;
+    outline: none;
+    color: rgb(125, 125, 125);
+    text-decoration: underline;
+    background-color: transparent;
+}
+.right-password{
+    color: orangered;
+}
+/* admin access end */
+
+.authentication{
+    margin-top: -40px;
+    color: rgb(187, 187, 187);
+}
+.authentication > form{
+    max-width: 700px;
+    margin: auto;
+    padding: 30px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.authentication > form > img{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 3px solid beige;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+.password{
+    width: 100%;
+    padding: 18px;
+    border: none;
+    outline: none;
+    margin-top: 20px;
+    color: rgb(200, 200, 200);
+    border: 1px solid rgb(255, 255, 0);
+    background-color: transparent;
+    border-radius: 5px;
+    animation: authentication 5s linear infinite;
+    -webkit-animation: authentication 5s linear infinite;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.authentication > form > input,
+.authentication > form > div > input,
+.addmin-pasword > input,
+.form > input,
+.password_aria > input{
+    width: 100%;
+    padding: 18px;
+    border: none;
+    outline: none;
+    margin-top: 20px;
+    color: rgb(200, 200, 200);
+    border: 1px solid rgb(255, 255, 0);
+    background-color: transparent;
+    border-radius: 5px;
+    animation: authentication 5s linear infinite;
+    -webkit-animation: authentication 5s linear infinite;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.addmin-pasword > input::placeholder,
+.authentication > form > input::placeholder,
+.authentication > form > div > input::placeholder,
+.addmin-pasword > input::placeholder,
+.form > input::placeholder,
+.password_aria > input::placeholder{
+    color: rgb(200, 200, 200);
+}
+.addmin-pasword > input:focus{
+    color: rgb(200, 200, 200);
+    background-color: transparent;
+}
+.password_aria{
+    position: relative;
+}
+.show_icon{
+    top: 55%;
+    right: 3%;
+    font-size: 15px;
+    position: absolute;
+    color: rgb(199, 199, 199);
+    cursor: pointer;
+}
+.authentication > form > button{
+    padding: 25px;
+    border: none;
+    outline: none;
+    margin-top: 30px;
+    font-size: 18px;
+    color: rgb(187, 187, 187);
+    background-color: transparent;
+    animation: authentication 5s linear infinite;
+    border: 1px solid rgb(255, 255, 0);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-animation: authentication 5s linear infinite;
+}
+@keyframes authentication {
+    0%{ filter:hue-rotate(0deg) ; -webkit-filter:hue-rotate(0deg) ; }
+    100%{ filter:hue-rotate(360deg) ; -webkit-filter:hue-rotate(360deg) ; }
+}
+.authentication > form > span,
+.authentication > form > p {
+    font-size: 16px;
+}
+.authentication > form > p{
+    color: rgb(255, 0, 162);
+}

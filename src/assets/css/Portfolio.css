@@ -1,0 +1,116 @@
+
+/* ----  portfolio tab section start ------- */
+/* --------%%%%%%%%%%%---------------- */
+.Tab_btn_aria{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px 0 40px 0;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.tab_button{
+    border: none;
+    outline: none;
+    color: beige;
+    margin: 5px;
+    padding: 4px 10px;
+    cursor: pointer;
+    font-size: 17px;
+    background-color: #313741;
+    transition: all .3s ease-in-out;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+}
+/* ----  portfolio tab section end ------- */
+
+
+
+/* ----  portfolio box section start ------- */
+.portfolio_All_box{
+    display: grid;
+    flex-wrap: wrap;
+    grid-gap: 60px;
+    margin-top: 10px;
+    grid-template-columns: repeat(3, 1fr);
+}
+.portfolio_box{
+    width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #24282f;
+    animation: portfolio 5s linear infinite;
+    box-shadow: 0 0 5px rgb(255, 255, 255);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-animation: portfolio 5s linear infinite;
+}
+.project-title:hover{
+    text-decoration: underline rgb(181, 181, 183);
+}
+.portfolio_box > img{
+    width: 100%;
+    max-height: 500px;
+    min-height: 500px;
+}
+.view-details-btn{
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 19px;
+    padding: 2px;
+    color: #05C789;
+    background-color: #334155;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+}
+.view-details-btn:hover{
+    color: beige;
+    background-color: orangered;
+}
+.pagination-btn{
+    width: 50px;
+    border: none;
+    outline: none;
+    margin: 10px;
+    font-size: 19px;
+    color: orangered;
+    background-color: #2b2f37;
+}
+.select_tab{
+    color: #05C789;
+    background-color: #334155;
+}
+
+
+
+/* ------------- responsive section start ------------- */
+@media (max-width:992px){
+    .portfolio_All_box{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width:576px){
+    .portfolio_All_box{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .Tab_btn_aria{
+        margin-top: 20px;
+    }
+}
+/* ------------- responsive section end ------------- */

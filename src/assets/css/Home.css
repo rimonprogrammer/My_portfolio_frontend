@@ -1,0 +1,31 @@
+
+
+
+/* ----------- cursor aria -------------- */
+ .cursor_Section{
+    z-index: 99;
+    position: absolute;
+    height: 22px;
+    width: 22px;
+    margin: 10px;
+    border-top-left-radius: 1%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background: linear-gradient(rgb(18, 235, 188), orange);
+    box-shadow:  0 0 10px orange, 0 0 40px rgb(0, 234, 255), 0 0 40px rgb(0, 204, 255);
+    animation: cursor 5s linear infinite;
+    -webkit-animation: cursor 5s linear infinite;
+    transition: all .1s ease;
+    -webkit-transition: all .1s ease;
+    -moz-transition: all .1s ease;
+    -ms-transition: all .1s ease;
+    -o-transition: all .1s ease;
+}
+@keyframes cursor {
+    0%{ filter:hue-rotate(0deg) ; -webkit-filter:hue-rotate(0deg) ; color: #c4c6c6; }
+    100%{ filter:hue-rotate(0deg) ; -webkit-filter:hue-rotate(360deg); color: antiquewhite; }
+}
+/* ----------- cursor aria -------------- */
+
+

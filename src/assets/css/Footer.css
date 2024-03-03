@@ -1,0 +1,235 @@
+.footer{
+    margin-top: 180px;
+    padding-bottom: 5px;
+}
+.hr{
+    height: 1.6px;
+    width: 100%;
+    margin: 0 0 20px 0;
+    background-color: rgb(0, 217, 255);
+    animation: hr 20s linear infinite ;
+    -webkit-animation: hr 5s linear infinite ;
+}
+@keyframes hr{
+    0%{ filter:hue-rotate(0deg) ; -webkit-filter:hue-rotate(0deg) ; }
+    100%{ filter:hue-rotate(360deg) ; -webkit-filter:hue-rotate(360deg) ; }
+}
+.col-md-3{
+    max-width: 100%;
+    color: rgb(208, 208, 208);
+}
+footer{
+    min-height: 260px;
+}
+footer h3{
+    width: auto;
+    cursor: pointer;
+    position: relative;
+    transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+}
+footer h3::after{
+    content: '';
+    width: 20%;
+    left: 0%;
+    height: 3px;
+    position: absolute;
+    bottom: -2px;
+    border-radius: 5px;
+    background-color: #f400bf;
+}
+footer h3:hover{
+    color: #f400bf;
+    letter-spacing: 3px;
+    text-shadow: 0 0 5px rgb(0, 247, 255, .4);
+}
+footer ul{
+    padding: 0;
+    margin-top: 20px;
+}
+footer ul li{
+    min-width: 100px;
+    cursor: pointer;
+    position: relative;
+    transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+}
+.menu ul li,
+.get_help ul li{
+    margin-top: 15px;
+
+}
+.menu ul li::after,
+.get_help ul li::after{
+    content: '';
+    width: 2%;
+    left: 0%;
+    height: 3px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: -2px;
+    border-radius: 5px;
+    background-color: #f400bf;
+    transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+}
+footer ul li:hover{
+    color: #f400bf;
+    letter-spacing: 1px;
+    text-shadow: 0 0 5px rgb(125, 249, 249 , 0.2);
+}
+footer ul li:hover::after{
+    width: 20%;
+}
+footer a {
+    color: rgb(183, 179, 179);
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    margin-top: 8px;
+}
+.contact > ul > li a{
+    display: flex;
+    text-decoration: none;
+    color: rgb(183, 179, 179);
+}
+.contact > ul > li > a > i{
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    margin-right: 10px;
+    color: rgb(5, 1, 28);
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center ;
+    background-color: aliceblue;
+    transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+.contact > ul > li > a:hover > i{
+    color: rgb(208, 208, 208);
+    background-color:orangered;
+    letter-spacing: 0px;
+}
+.Subscribe > div > form > input{
+    width: 90%;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+    padding: 5px;
+    height: 40px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.Subscribe_aria{
+    display: flex;
+    align-items: center;
+}
+.Subscribe_aria button{
+    padding: 5px;
+    border: none;
+    outline: none;
+    height: 41px;
+    color: rgb(208, 208, 208);
+    background-color: orangered;
+    margin-left: -10px;
+    margin-top: 9px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.email_phone li{
+    display: flex;
+}
+.email_phone li:nth-child(2){
+    margin-top: -8px;
+}
+.email_phone  li > i{
+    color: rgb(208, 208, 208);
+    padding-right: 15px;
+    font-size: 18px;
+    cursor: pointer;
+    padding-top: 5px;
+}
+.email_phone > li > i:hover{
+    color: rgb(0, 255, 204);
+}
+.followMe{
+    margin-top: -10px;
+}
+.social_icon i{
+    padding-right: 15px;
+    font-size: 22px;
+    cursor: pointer;
+    color: rgb(208, 208, 208);
+    transform: translateY(0px);
+    border-radius: 100px;
+    transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    -o-transform: translateY(0px);
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.social_icon i:hover{
+    color: orangered;
+    transform: translateY(10px);
+    -webkit-transform: translateY(10px);
+    -moz-transform: translateY(10px);
+    -ms-transform: translateY(10px);
+    -o-transform: translateY(10px);
+}
+
+
+
+.footer_bottom h5{
+    color: rgb(208, 208, 208);
+}
+
+@media (max-width: 768px){
+    .footer{
+        margin-top: 60px;
+    }
+    footer ul li{
+        margin-left: 10px;
+    }
+    .menu ul li::after,
+    .get_help ul li::after{
+        content: '';
+        width: 12%;
+    }
+    .social_icon i{
+        padding-right: 15px;
+        font-size: 22px;
+        cursor: pointer;
+        color: rgb(0, 255, 255);
+    }
+}

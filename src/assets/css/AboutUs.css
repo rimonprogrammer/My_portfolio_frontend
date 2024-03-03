@@ -1,0 +1,263 @@
+.row_section{
+    padding-bottom: 23px;
+}
+.Right_section{
+    height: 82vh;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    color: rgb(196, 196, 196);
+}
+/* ------- introduction start --------- */
+.Right_section > .introduction > h1{
+    margin-top: 50px;
+    font-size: 60px;
+    color: transparent;
+    -webkit-text-stroke: 1px rgb(0, 242, 255);
+}
+.Right_section > .introduction > h1:hover,
+.Right_section > .introduction > h2:hover{
+    -webkit-text-stroke: 1px orange;
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    -o-transition: all .4s ease;
+}
+.Right_section > .introduction > h2{
+    font-size: 50px;
+    color: transparent;
+    -webkit-text-stroke: 1px orangered;
+}
+.Right_section > .introduction > p{
+    font-size: 22px;
+    margin-top: 30px;
+}
+.experience_intro{
+    display: flex;
+    margin-top: 60px;
+    align-items: center;
+    justify-content: space-between;
+}
+.experience_intro > div > .project{
+    padding-left: 100px;
+}
+.experience_intro > div > div > h1{
+    font-size: 60px;
+    color: orange;
+    color: transparent;
+    font-weight: 500;
+    -webkit-text-stroke: 1px orange;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.experience_intro > div > div > p{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.experience_intro > div > div > p > span{
+    display: block;
+}
+.experience_intro .more-details-btn{
+    outline: none;
+    color: beige;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid beige;
+    background-color: transparent;
+    transition: all .4s ease;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    -o-transition: all .4s ease;
+}
+.experience_intro .more-details-btn i{
+    padding-left: 7px;
+}
+.experience_intro .more-details-btn:hover{
+    border: 1px solid orangered;
+}
+/* ------- introduction end --------- */
+
+
+/* ------- my-details start --------- */
+.my-details{
+    margin-top: 100px;
+}
+.my-details > p{
+    font-size: 20px;
+}
+
+.my-details > ul > li{
+    margin-left: -15px;
+}
+.my-details > ul > li > i{
+    margin-right: 10px;
+    color: orangered;
+}
+.my-details > .note > span{
+    color: black;
+    padding: 0 5px 0 5px;
+    background-color: rgb(255, 219, 199);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+/* ------- my-details end --------- */
+
+
+/* ------- technoloys section start --------- */
+.technology-logo{
+    gap: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.technology-logo > div > div:hover > p{
+    color: orangered;
+}
+.technology-logo > div > div > p{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.technology-logo > div > div > img{
+    height: 70px;
+    transition: all .4s ease;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    -o-transition: all .4s ease;
+}
+.technology-logo > div > div > img:hover{
+    box-shadow: 0 0 5px rgb(175, 175, 175);
+}
+/* ------- technoloys section end --------- */
+
+
+/* ------- education section start --------- */
+.education > .diploma{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.education > .diploma > span{
+    color: black;
+    height: 25px;
+    padding: 0 10px 0 10px;
+    border-radius: 5px;
+    background-color: rgb(120, 255, 67);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.education > ul > li{
+    margin-left: -20px;
+}
+.education > ul > li > i{
+    margin-right: 10px;
+    color: orangered;
+}
+/* ------- education section end --------- */
+
+
+/* ------- hire me section start --------- */
+.hire-me{
+    margin-left: -20px;
+}
+.hire-me > li > i{
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    border: 1px solid beige;
+    transition: all .3s ease;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+}
+.hire-me > li:hover a{
+    color: orangered;
+}
+.hire-me > li:hover > i{
+    border: 1px solid orangered;
+}
+.hire-me > li > a{
+    color: orange;
+    letter-spacing: 1px;
+}
+/* ------- hire me section end --------- */
+
+/* ------- resume section start --------- */
+.resume-btn{
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+/* ------- resume section end --------- */
+
+@media (max-width:500px){
+    .heading-btn{
+        font-size: 15px;
+        padding: 5px 10px 5px 10px;
+    }
+    .Right_section > .introduction > h1{
+        font-size: 40px;
+    }
+    .Right_section > .introduction > h2{
+        font-size: 30px;
+    }
+    .experience_intro {
+        display: block;
+    }
+    .experience_intro > div > .project{
+        padding-left: 30px;
+    }
+    .technology-logo > div > div > img{
+        width: 100px;
+    }
+}
+@media (max-width:762px){
+    .introduction{
+        margin-top: 20px;
+    }
+    .col-md-4{
+        display: flex;
+        justify-content: center;
+    }
+    .row_section{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+@media (max-width:992px){
+    .Right_section{
+        padding-left: 40px ;
+    }
+}
