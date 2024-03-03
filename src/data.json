@@ -1,0 +1,1115 @@
+[
+    {
+        "id" : "project-1",
+        "category" : "E-commerce",
+        "technology" : "React",
+        "title" : "ShopLand E-commerce website",
+        "description" : "This is a ShopLand e-commerce website. ShopLand e-commerce website is made with React-JS, Node-JS, Express-JS, MongoDB, Bootstrap, & CSS. In this project, I've implemented a user authentication system + bcrypt js security, shopping cart functionality, product searching, product sorting, product category filter, product details, visually appealing & mobile responsive user interface. I've used context API, React router, React-icons, React-toastify, useReducer & Others hooks",
+        "featureImg" : "/public/shopland-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/shopland-1.jpg"
+            },
+            {
+                "img" : "/public/shopland-2.jpg"
+            },
+            {
+                "img" : "/public/shopland-3.jpg"
+            },
+            {
+                "img" : "/public/shopland-4.jpg"
+            },
+            {
+                "img" : "/public/shopland-5.jpg"
+            },
+            {
+                "img" : "/public/shopland-6.jpg"
+            },
+            {
+                "img" : "/public/shopland-7.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "React JS"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "Node JS"
+            },
+            {
+                "tech" : "Express JS"
+            },
+            {
+                "tech" : "MongoDB"
+            },
+            {
+                "tech" : "Mongoose"
+            },
+            {
+                "tech" : "Bcrypt JS"
+            },
+            {
+                "tech" : "Render (API hosting)"
+            },
+            {
+                "tech" : "Formspree"
+            },
+            {
+                "tech" : "React-icons"
+            },
+            {
+                "tech" : "React-toastify"
+            }
+        ],
+        "ImpTitle" : "What I've implemented?",
+        "implement" : [
+            {
+                "ImpTitle" : "User Authentication with bcrypt js for security"
+            },
+            {
+                "ImpTitle" : "REST API create & fetch data"
+            },
+            {
+                "ImpTitle" : "Shopping cart functionality"
+            },
+            {
+                "ImpTitle" : "Product searching"
+            },
+            {
+                "ImpTitle" : "Product sorting"
+            },
+            {
+                "ImpTitle" : "Product category filter"
+            },
+            {
+                "ImpTitle" : "Product searching"
+            },
+            {
+                "ImpTitle" : "Feature Product"
+            },
+            {
+                "ImpTitle" : "Trending Product"
+            },
+            {
+                "ImpTitle" : "Particular product details through id"
+            },
+            {
+                "ImpTitle" : "Smooth Spinner for good user experience"
+            },
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            },
+            {
+                "ImpTitle" : "Contact form with formspree"
+            },
+            {
+                "ImpTitle" : "Attractive alert using react toastify"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "",
+        "gitHubURL" : "https://github.com/rimonprogrammer/ShopLand_E-commerce",
+        "liveURL" : "https://shopland-bd.netlify.app/",
+        "page" : 1
+    },
+    {
+        "id" : "project-2",
+        "category" : "E-commerce",
+        "technology" : "React",
+        "title" : "SnapDeal e-commerce website",
+        "description" : "This is a SnapDeal e-commerce website. SnapDeal e-commerce website is made with React-JS, Node-JS, Express-JS, MongoDB, Bootstrap, & CSS. In this project, I've implemented a user authentication system + bcrypt js security, shopping cart functionality, product searching, product sorting, product category filter, product details, visually appealing & mobile responsive user interface. I've used context API, React router, React-icons, React-toastify, React-slick, useReducer & Others hooks",
+        "featureImg" : "/public/snapdeal-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/snapdeal-1.jpg"
+            },
+            {
+                "img" : "/public/snapdeal-2.jpg"
+            },
+            {
+                "img" : "/public/snapdeal-3.jpg"
+            },
+            {
+                "img" : "/public/snapdeal-4.jpg"
+            },
+            {
+                "img" : "/public/shopland-5.jpg"
+            },
+            {
+                "img" : "/public/snapdeal-6.jpg"
+            },
+            {
+                "img" : "/public/snapdeal-7.jpg"
+            },
+            {
+                "img" : "/public/snapdeal-8.jpg"
+            },
+            {
+                "img" : "/public/snapdeal-9.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "React JS"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "Node JS"
+            },
+            {
+                "tech" : "Express JS"
+            },
+            {
+                "tech" : "MongoDB"
+            },
+            {
+                "tech" : "Mongoose"
+            },
+            {
+                "tech" : "Bcrypt JS"
+            },
+            {
+                "tech" : "Render (API hosting)"
+            },
+            {
+                "tech" : "Formspree"
+            },
+            {
+                "tech" : "React-icons"
+            },
+            {
+                "tech" : "React-toastify"
+            },
+            {
+                "tech" : "React-slick (careosel)"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "User Authentication with bcrypt js for security"
+            },
+            {
+                "ImpTitle" : "REST API create & fetch data" 
+            },
+            {
+                "ImpTitle" : "Shopping cart functionality"
+            },
+            {
+                "ImpTitle" : "Product searching"
+            },
+            {
+                "ImpTitle" : "Product sorting"
+            },
+            {
+                "ImpTitle" : "Product category filter"
+            },
+            {
+                "ImpTitle" : "Product searching"
+            },
+            {
+                "ImpTitle" : "Feature Product"
+            },
+            {
+                "ImpTitle" : "Trending Product"
+            },
+            {
+                "ImpTitle" : "Particular product details through id"
+            },
+            {
+                "ImpTitle" : "Smooth Spinner for good user experience"
+            },
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            },
+            {
+                "ImpTitle" : "Contact form with formspree"
+            },
+            {
+                "ImpTitle" : "Attractive alert using react toastify"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "",
+        "gitHubURL" : "https://github.com/rimonprogrammer/SnapDeal_E-commerce",
+        "liveURL" : "https://snap-deals.netlify.app/",
+        "page" : 1
+    },
+    {
+        "id" : "project-3",
+        "category" : "Educational",
+        "technology" : "React",
+        "title" : "DPI Educational website",
+        "description" : "This is an educational website. This website is created for Darpon Polytechnic Institute. In this project, I've implemented a user authentication with Bcryor-JS for security, admin access, updatable notice section, all teacher, institute gallery section, contact section with formspree, responsive & visually stunning layout, etc.",
+        "featureImg" : "/public/dpi-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/dpi-1.jpg"
+            },
+            {
+                "img" : "/public/dpi-2.jpg"
+            },
+            {
+                "img" : "/public/dpi-3.jpg"
+            },
+            {
+                "img" : "/public/dpi-4.jpg"
+            },
+            {
+                "img" : "/public/dpi-5.jpg"
+            },
+            {
+                "img" : "/public/dpi-6.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "React JS"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "Node JS"
+            },
+            {
+                "tech" : "Express JS"
+            },
+            {
+                "tech" : "MongoDB"
+            },
+            {
+                "tech" : "Mongoose"
+            },
+            {
+                "tech" : "Bcrypt JS"
+            },
+            {
+                "tech" : "Render (API hosting)"
+            },
+            {
+                "tech" : "Formspree"
+            },
+            {
+                "tech" : "Font awesome"
+            },
+            {
+                "tech" : "React-toastify"
+            },
+            {
+                "tech" : "AOS animation"
+            },
+            {
+                "tech" : "Vanilla-tilt effect"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "User Authentication with bcrypt js for security"
+            },
+            {
+                "ImpTitle" : "REST API create & complete read, write, update, delete operation"
+            },
+            {
+                "ImpTitle" : "Editable notice for student"
+            },
+            {
+                "ImpTitle" : "Particular user details through id"
+            },
+            {
+                "ImpTitle" : "Smooth Spinner for good user experience"
+            },
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            },
+            {
+                "ImpTitle" : "Contact form with formspree"
+            },
+            {
+                "ImpTitle" : "Attractive alert using react toastify"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "",
+        "gitHubURL" : "",
+        "liveURL" : "",
+        "page" : 1
+    },
+    {
+        "id" : "project-4",
+        "category" : "News-APP",
+        "technology" : "React",
+        "title" : "International News APP",
+        "description" : "This is an International News App project. Here you can watch daily top and updated International news. I have added an awesome feature to this project which is infinite scrolling. When you'll scroll down then it will show the all news until the news will not end. There are six categories in the web application. These are science, Technology, Business, Sports, Health, entertainment, etc.",
+        "featureImg" : "/public/news-app-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/news-app-1.jpg"
+            },
+            {
+                "img" : "/public/news-app-2.jpg"
+            },
+            {
+                "img" : "/public/news-app-3.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "React JS"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "News API"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "Infinite scrolling"
+            },
+            {
+                "ImpTitle" : "Data fetch, form News API"
+            },
+            {
+                "ImpTitle" : "Category wise fragmentation"
+            },
+            {
+                "ImpTitle" : "Smooth Spinner for good user experience"
+            },
+            {
+                "ImpTitle" : "Background mode(color) changeable"
+            },
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "I've made this project with a free news API. But they aren't providing to allow this project to live in this free version. That's why I couldn't deploy this project in live. But you can get the actual code of this application. In the below I'vs provide github url for get this project's code ",
+        "fbURL" : "",
+        "linkedInURL" : "",
+        "gitHubURL" : "https://github.com/rimonprogrammer/News-App",
+        "page" : 1
+    },
+    {
+        "id" : "project-5",
+        "category" : "E-commerce",
+        "technology" : "JavaScript",
+        "title" : "BD-Shop e-commerce website",
+        "description" : "This a a BD-Shop e-commerce website. This website is made with html, css, bootstrap, javascript, and AOS. In this website, I've implemented mobile responsive & visually appealing user interface, contact section, product section, etc.",  
+        "featureImg" : "/public/bd-shop-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/bd-shop-1.jpg"
+            },
+            {
+                "img" : "/public/bd-shop-2.jpg"
+            },
+            {
+                "img" : "/public/bd-shop-3.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "HTML"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "JavaScript"
+            },
+            {
+                "tech" : "AOS animation"
+            },
+            {
+                "tech" : "Font awesome"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "All product"
+            },
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "https://www.facebook.com/photo/?fbid=316791777982814&set=a.147450374916956",
+        "linkedInURL" : "https://www.linkedin.com/posts/nobenur-islam-rimon_webdesign-webdeveloper-webdevelopment-activity-7143795933346996225-3znY?utm_source=share&utm_medium=member_desktop",
+        "gitHubURL" : "https://github.com/rimonprogrammer/BD-Shop-E-CommerceWeb",
+        "liveURL" : "https://rimonprogrammer.github.io/BD-Shop-E-CommerceWeb/",
+        "page" : 1
+    },
+    {
+        "id" : "project-6",
+        "category" : "E-commerce",
+        "technology" : "JavaScript",
+        "title" : "Comforty ",
+        "description" : "This a a Comforty e-commerce website. This website is made with html, css, bootstrap, javascript, and AOS. In this website, I've implemented mobile responsive & visually appealing user interface",  
+        "featureImg" : "/public/comforty-1.png",
+        "image" : [
+            {
+                "img" : "/public/comforty-1.png"
+            },
+            {
+                "img" : "/public/comforty-2.png"
+            },
+            {
+                "img" : "/public/comforty-3.png"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "HTML"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "JavaScript"
+            },
+            {
+                "tech" : "AOS animation"
+            },
+            {
+                "tech" : "Font awesome"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "All product"
+            },
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "https://www.linkedin.com/posts/nobenur-islam-rimon_webdesign-webdeveloper-webdevelopment-activity-7115560068384755714-_0Vg?utm_source=share&utm_medium=member_desktop",
+        "gitHubURL" : "https://github.com/rimonprogrammer/Comforty-E-commerce",
+        "liveURL" : "https://rimonprogrammer.github.io/Comforty-E-commerce/",
+        "page" : 1
+    },
+    {
+        "id" : "project-7",
+        "category" : "E-commerce",
+        "technology" : "JavaScript",
+        "title" : "REIS e-commerce website",
+        "description" : "This a a RIES e-commerce website. This website is made with html, css, bootstrap, javascript, and AOS. In this website, I've implemented mobile responsive & visually appealing user interface",  
+        "featureImg" : "/public/reis-1.png",
+        "image" : [
+            {
+                "img" : "/public/reis-1.png"
+            },
+            {
+                "img" : "/public/reis-2.png"
+            },
+            {
+                "img" : "/public/reis-3.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "HTML"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "JavaScript"
+            },
+            {
+                "tech" : "AOS animation"
+            },
+            {
+                "tech" : "Font awesome"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "Home details"
+            },
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "https://www.linkedin.com/posts/nobenur-islam-rimon_webdesign-webdeveloper-webdevelopment-activity-7111040337300652032-YKf3?utm_source=share&utm_medium=member_desktop",
+        "gitHubURL" : "https://github.com/rimonprogrammer/REIS-E-commerceWeb",
+        "liveURL" : "https://rimonprogrammer.github.io/REIS-E-commerceWeb/",
+        "page" : 2
+    },
+    {
+        "id" : "project-8",
+        "category" : "E-commerce",
+        "technology" : "JavaScript",
+        "title" : "CarHub e-commerce website",
+        "description" : "This a a CarHub e-commerce website. This website is made with html, css, bootstrap, javascript, and AOS. In this website, I've implemented mobile responsive & visually appealing user interface",  
+        "featureImg" : "/public/carhub-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/carhub-1.jpg"
+            },
+            {
+                "img" : "/public/carhub-2.jpg"
+            },
+            {
+                "img" : "/public/carhub-3.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "HTML"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "JavaScript"
+            },
+            {
+                "tech" : "AOS animation"
+            },
+            {
+                "tech" : "Font awesome"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "Car details"
+            },
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "",
+        "gitHubURL" : "https://github.com/rimonprogrammer/CarHub-E-commerce",
+        "liveURL" : "https://rimonprogrammer.github.io/CarHub-E-commerce/",
+        "page" : 2
+    },
+    {
+        "id" : "project-9",
+        "category" : "Portfolio",
+        "technology" : "jQuery",
+        "title" : "Get-freelancer Portfolio website",
+        "description" : "This a a Get-freelancer Portfolio website. This website is made with html, css, bootstrap, jQuery, and AOS. In this website, I've implemented mobile responsive & visually appealing user interface, contact section, freelancer details, etc.",  
+        "featureImg" : "/public/get_freelancer-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/get_freelancer-1.jpg"
+            },
+            {
+                "img" : "/public/get_freelancer-2.jpg"
+            },
+            {
+                "img" : "/public/get_freelancer-3.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "HTML"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "jQuery"
+            },
+            {
+                "tech" : "Font awesome"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            },
+            {
+                "ImpTitle" : "Contact form with formspree"
+            },
+            {
+                "ImpTitle" : "Freelancer details"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "https://www.linkedin.com/posts/nobenur-islam-rimon_webdesign-webdeveloper-webdevelopment-activity-7121130066809405440-M2zO?utm_source=share&utm_medium=member_desktop",
+        "gitHubURL" : "https://github.com/rimonprogrammer/Get-Freelancers-Portfolio",
+        "liveURL" : "https://rimonprogrammer.github.io/Get-Freelancers-Portfolio/",
+        "page" : 2
+    },
+    {
+        "id" : "project-10",
+        "category" : "Portfolio",
+        "technology" : "Bootstrap",
+        "title" : "Systematic-Portfolio website",
+        "description" : "This a Systematic-Portfolio website. This website is made with html, css, bootstrap, and AOS. In this website, I've implemented mobile responsive & visually appealing user interface.",  
+        "featureImg" : "/public/Systematic-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/Systematic-1.jpg"
+            },
+            {
+                "img" : "/public/Systematic-2.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "HTML"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "AOS animation"
+            },
+            {
+                "tech" : "Font awesome"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "https://www.facebook.com/photo?fbid=282535551408437&set=a.147450374916956",
+        "linkedInURL" : "https://www.linkedin.com/posts/nobenur-islam-rimon_webdesign-webdeveloper-webdevelopment-activity-7121906509336256512-llsa?utm_source=share&utm_medium=member_desktop",
+        "gitHubURL" : "https://github.com/rimonprogrammer/Systematic-Portfolio",
+        "liveURL" : "https://rimonprogrammer.github.io/Systematic-Portfolio/",
+        "page" : 2
+    },
+    {
+        "id" : "project-11",
+        "category" : "Educational",
+        "technology" : "Bootstrap",
+        "title" : "Funbrain Educational website",
+        "description" : "This is an educational website. This website is created for Funbrain university, bangladesh. In this project, I've implemented responsive & visually stunning layout.",  
+        "featureImg" : "/public/Funbrain-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/Funbrain-1.jpg"
+            },
+            {
+                "img" : "/public/Funbrain-2.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "HTML"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "Responsive design"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "https://www.facebook.com/photo/?fbid=358821370446521&set=a.147450374916956",
+        "linkedInURL" : "https://www.linkedin.com/posts/nobenur-islam-rimon_webdesign-webdeveloper-webdevelopment-activity-7107361558686552064-WJQK?utm_source=share&utm_medium=member_desktop",
+        "gitHubURL" : "https://github.com/rimonprogrammer/Funbrain_Educational",
+        "liveURL" : "https://rimonprogrammer.github.io/Funbrain_Educational/",
+        "page" : 2
+    },
+    {
+        "id" : "project-12",
+        "category" : "Weather-APP",
+        "technology" : "React",
+        "title" : "Weather-APP",
+        "description" : "This is a Weather-APP project. This project is made with React-JS & openweather api. Here you can get weather information. Such as temperature, Humidity, Sunset, Wind speed, sky situation, Pressure, etc.",  
+        "featureImg" : "/public/Weather_App-react-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/Weather_App-react-1.jpg"
+            },
+            {
+                "img" : "/public/Weather_App-react-2.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "React JS"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "openweather API"
+            },
+            {
+                "tech" : "Font awesome"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "Weather information"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "Searching functionality"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "",
+        "gitHubURL" : "https://github.com/rimonprogrammer/Weather-APP-React-/tree/main",
+        "liveURL" : "https://weather-app-react-get-weather.netlify.app/",
+        "page" : 2
+    },
+    {
+        "id" : "project-13",
+        "category" : "Others",
+        "technology" : "React",
+        "title" : "TextUtils || text modifier",
+        "description" : "This is a text modifier website. In this website you can modify your text. Such as you can convert your text LowerCase to UpperCase, UpperCase to LowerCase, Remove extra spaces, Count all characters, count all words, Reading time, and also copy to clipboard advances you can get",  
+        "featureImg" : "/public/textutils-1.jpg",
+        "image" : [
+            {
+                "img" : "/public/textutils-1.jpg"
+            },
+            {
+                "img" : "/public/textutils-2.jpg"
+            },
+            {
+                "img" : "/public/textutils-3.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "React JS"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "Bootstrap"
+            },
+            {
+                "tech" : "Font awesome"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "Text modifier"
+            },
+            {
+                "ImpTitle" : "Text counter"
+            },
+            {
+                "ImpTitle" : "Text copy to clipboard"
+            },
+            {
+                "ImpTitle" : "Text uppercase & lowercase"
+            },
+            {
+                "ImpTitle" : "Text extra spaces remove"
+            },
+            {
+                "ImpTitle" : "Text clear & text summary"
+            },
+            {
+                "ImpTitle" : "Dark mode functionality"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "",
+        "gitHubURL" : "https://github.com/rimonprogrammer/TextUtills",
+        "liveURL" : "https://textutils-text-modifier.netlify.app/",
+        "page" : 3
+    },
+    {
+        "id" : "project-14",
+        "category" : "Others",
+        "technology" : "React",
+        "title" : "Random password generator",
+        "description" : "This is a Random password generator website. This project have created using React-JS. In this website, you can generate a random password, you can increase password length, you can add number or character into the password, and also, you can copy with clipboard.",  
+        "featureImg" : "/public/pass-generator-react.jpg",
+        "image" : [
+            {
+                "img" : "/public/pass-generator-react.jpg"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "React JS"
+            },
+            {
+                "tech" : "CSS"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "You can generate a random password."
+            },
+            {
+                "ImpTitle" : "You can increase password length."
+            },
+            {
+                "ImpTitle" : "You can add number or character into the password."
+            },
+            {
+                "ImpTitle" : "Copy to clipboard functionality"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "https://www.linkedin.com/posts/nobenur-islam-rimon_reacts-reactdeveloper-reactdevelopment-activity-7168835228961030145-BbwU?utm_source=share&utm_medium=member_desktop",
+        "gitHubURL" : "https://github.com/rimonprogrammer/Password-Generator-React-",
+        "liveURL" : "https://random-password-generator-password.netlify.app/",
+        "page" : 3
+    },
+    {
+        "id" : "project-15",
+        "category" : "Others",
+        "technology" : "JavaScript",
+        "title" : "Random password generator",
+        "description" : "This is a Random password generator website. This project have created using JavaScript. In this website, you can generate a random password, you can increase password length, you can add number into the password, and also, you can copy with clipboard.",  
+        "featureImg" : "/public/password-gen-js.png",
+        "image" : [
+            {
+                "img" : "/public/password-gen-js.png"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "JavaScript"
+            },
+            {
+                "tech" : "CSS"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "You can generate a random password."
+            },
+            {
+                "ImpTitle" : "You can increase password length."
+            },
+            {
+                "ImpTitle" : "You can add number into the password."
+            },
+            {
+                "ImpTitle" : "Copy to clipboard functionality"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "https://www.facebook.com/photo?fbid=315928564735802&set=a.147450374916956",
+        "linkedInURL" : "https://www.linkedin.com/posts/nobenur-islam-rimon_webdesign-webdeveloper-webdevelopment-activity-7143272764957790209-dZLe?utm_source=share&utm_medium=member_desktop",
+        "gitHubURL" : "https://github.com/rimonprogrammer/Password-Generator-JS",
+        "liveURL" : "https://rimonprogrammer.github.io/Password-Generator-JS/",
+        "page" : 3
+    },
+    {
+        "id" : "project-16",
+        "category" : "Weather-APP",
+        "technology" : "JavaScript",
+        "title" : "Weather-APP",
+        "description" : "This is a Weather-APP project. This project is made with JavaScript & weather api. Here you can get weather information. Such as temperature, Humidity, Wind speed, sky situation, etc.",  
+        "featureImg" : "/public/weather-app-js.png",
+        "image" : [
+            {
+                "img" : "/public/weather-app-js.png"
+            }
+        ],
+        "techTitle" : "Using technologies & packages",
+        "technologies" : [
+            {
+                "tech" : "React JS"
+            },
+            {
+                "tech" : "CSS"
+            },
+            {
+                "tech" : "openweather API"
+            },
+            {
+                "tech" : "Font awesome"
+            }
+        ],
+        "ImpTitle" : "What I've implement?",
+        "implement" : [
+            {
+                "ImpTitle" : "Weather information"
+            },
+            {
+                "ImpTitle" : "visually stunning user interface"
+            },
+            {
+                "ImpTitle" : "Searching functionality"
+            },
+            {
+                "ImpTitle" : "SEO friendly & well commented code"
+            }
+        ],
+        "note" : "To visit this project click the live button that stays in the below.",
+        "fbURL" : "",
+        "linkedInURL" : "",
+        "gitHubURL" : "https://github.com/rimonprogrammer/Weather-App-JS",
+        "liveURL" : "https://rimonprogrammer.github.io/Weather-App-JS/",
+        "page" : 3
+    }
+]

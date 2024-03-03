@@ -1,0 +1,113 @@
+.contact_me_component{
+    margin-top: 140px;
+    padding-bottom: 70px;
+
+}
+.contact_me {
+    margin-top: 50px;
+}
+.contact_me > div > form{
+    padding: 8px 20px 0 20px;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 255, 0);
+    animation: contact 5s linear infinite;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-animation: contact 5s linear infinite;
+}
+.contact_me > div > form > h3{
+    margin: 0%;
+    text-align: center;
+    color: rgb(199, 199, 199);
+}
+.contact_header{
+    color: rgb(236, 255, 33);
+}
+.contact_me > div > form > div {
+    display: flex;
+    justify-content: space-between;
+}
+.contact_me > div > form > div > input{
+    width: 49%;
+    padding: 8px;
+    border: none;
+    outline: none;
+    margin-top: 20px;
+    color: rgb(199, 199, 199);
+    border: 1px solid rgb(255, 255, 0);
+    animation: contact 5s linear infinite;
+    background-color: transparent;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-animation: contact 5s linear infinite;
+}
+.contact_header{
+    position: relative;
+}
+.contact_header::after{
+    content: '';
+    position: absolute;
+    bottom: -10%;
+    left: 0%;
+    width: 100%;
+    height: 3px;
+    background-color: aqua;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.contact_me > div > form > input,
+.contact_me > div > form > textarea,
+.contact_me > div > form > button{
+    width: 100%;
+    padding: 8px;
+    border: none;
+    outline: none;
+    margin-top: 15px;
+    color: rgb(199, 199, 199);
+    border: 1px solid rgb(255, 255, 0);
+    animation: contact 5s linear infinite;
+    background-color: transparent;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-animation: contact 5s linear infinite;
+}
+@keyframes contact {
+    0%{ filter:hue-rotate(0deg) ; -webkit-filter:hue-rotate(0deg) ; }
+    100%{ filter:hue-rotate(360deg) ; -webkit-filter:hue-rotate(360deg) ; }
+}
+.contact_me > div > form > textarea{
+    min-height: 145px;
+}
+.contact_me > div > iframe{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+
+
+@media (max-width: 768px){
+    .contact_me_component{
+        margin-top: 90px;
+        margin-bottom: 80px;
+    
+    }
+    .contact_me {
+        margin-top: 10px;
+    }
+}

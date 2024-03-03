@@ -1,0 +1,101 @@
+
+.my_img_section{
+    min-height: 550px;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid orangered;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.img_div_section{
+    height: 220px;
+    width: 220px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(#4246a5 , #13b4b4);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.img_div{
+    height: 160px;
+    width: 160px;
+    padding: 10px;
+    overflow: hidden;
+    border-radius: 100px;
+    border: 2px solid rgb(179, 179, 179);
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.img_div > img{
+    height: 110%;
+    width: 100%;
+    transform: rotate(5deg);
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -ms-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+}
+.middle_text > h5, 
+.middle_text > p{
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+.middle_text > h5{
+    color:#05b7c7;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+.middle_text > p{
+    color: #b1b1b1;
+    font-size: 16.5px;
+}
+.my_social_media {
+    margin-top: 10px;
+}
+.my_social_media > i{
+    font-size: 20px;
+    height: 35px;
+    width: 35px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    border: 1px solid beige;
+    transition: all .3s ease;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+}
+.my_social_media > i:hover{
+    color: orangered;
+    border: 1px solid rgb(13, 219, 255);
+    transform: translateY(5px);
+    -webkit-transform: translateY(5px);
+    -moz-transform: translateY(5px);
+    -ms-transform: translateY(5px);
+    -o-transform: translateY(5px);
+}

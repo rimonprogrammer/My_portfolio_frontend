@@ -1,0 +1,252 @@
+#my_Skill{
+    margin-bottom: 100px;
+}
+.my_Skill{
+    margin-top: 40px;
+}
+.skills{
+    display: flex;
+    margin-top: 60px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+/* ----------- skill ratio section start ---------- */
+.skill_ratio .col-md-3{
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+svg.radial-progress {
+    height: auto;
+    max-width: 200px;
+    padding: 1em;
+    transform: rotate(-90deg);
+    width: 100%;
+}
+svg.radial-progress circle {
+    fill: rgba(224, 212, 212, 0);
+    stroke: #fff;
+    stroke-dashoffset: 219.91148575129; 
+    stroke-width: 6;
+}
+svg.radial-progress circle.incomplete { 
+    opacity: 0.25;
+} 
+svg.radial-progress circle.complete { stroke-dasharray: 219.91148575129; }
+svg.radial-progress text {
+    fill: #00eeff;
+    font-size: 1.5rem;
+    text-anchor:middle;
+    text-align: center;
+    text-transform: uppercase;
+    animation: whoAmI 5s linear infinite;
+}
+svg.html-css circle{
+    stroke:orangered;
+}
+svg.Bootstrap circle{
+    stroke: #00ef1c;
+}
+svg.JAVASCRIPT circle{
+    stroke: #04e6ff;
+}
+svg.react-js circle{
+    stroke: #e900e5;
+}
+.skill_ratio h3{
+    color: #00eeff;
+    animation: whoAmI 5s linear infinite;
+}
+.progress_Ratio{
+    opacity: 0.5;
+    transform: translateY(80%);
+    -webkit-transform: translateY(80%);
+    -moz-transform: translateY(80%);
+    -ms-transform: translateY(80%);
+    -o-transform: translateY(80%);
+}
+.Scroll_Animation.show_animate{
+    opacity: 1;
+    filter: blur(0px);
+    transform: translateY(0%);
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    -webkit-filter: blur(0px);
+}
+/* ----------- skill ratio section end ---------- */
+
+
+/* ---------- details start---------- */
+.skill_details_Section{
+    margin-top: 120px;
+}
+.skill_details_Section > h2{
+    color: transparent;
+    -webkit-text-stroke: 1px orangered;
+}
+.details_row{
+    display: flex;
+    justify-content: center;
+}
+.details_Box{
+    margin: 50px 0 50px 0;
+    max-width: 100%;
+    min-height: 276px;
+    padding: 20px 30px 20px 30px;
+    color: #05C789;
+    background-color: #334155;
+    border-radius: 5px;
+    border-bottom: 5px solid;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.details_Box_hidden{
+    margin-top: 50px;
+    height: 300px;
+    display: flex;
+    color: #05C789;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+}
+.left_side{
+    margin-top: 120px;
+}
+.right_side{
+    margin-top: 100px;
+}
+.details_Box_hidden > h5{
+    display: none;
+    text-align: center;
+}
+.details_Box_hidden:hover h5{
+    display: block;
+}
+.details_Box h4{
+    font-size: 30px;
+    color: #04ffd5;
+}
+.details_Box p{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-align: justify;
+    color: rgb(241, 239, 238);
+}
+.details_Box a{
+    padding-left: 20px;
+    font-size: 18px;
+    color: rgb(249, 215, 0);
+}
+.details_Box i{
+    font-size: 13px;
+}
+.vartical_rol_aria{
+    width: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff4500;
+    margin: 0 50px;
+    position: relative;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.ReactJS,
+.JSLOGO,
+.BootstrapLogo,
+.HtmlCssLogo,
+.webDesignLogo
+{
+    position: absolute;
+    height: 60px;
+    animation: whoAmI 5s linear infinite;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(5, 245, 229);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    -webkit-animation: whoAmI 5s linear infinite;
+}
+.webDesignLogo{
+    top: 10%;
+    background-color: #00eeff;
+}
+.ReactJS{
+    top: 31%;
+}
+.JSLOGO{
+    top: 48%;
+}
+.BootstrapLogo{
+    top: 72%;
+}
+.HtmlCssLogo{
+    top: 88%;
+}
+
+/* ---------- details end---------- */
+
+
+/* ----------- responsive section start--------------------- */
+
+@media (max-width:768px){
+    .skills{
+        margin-top: 0px;
+    }
+    .my_Skill{
+        margin-top: 60px;
+    }
+    .details_Box_hidden{
+        display: none;
+    }
+    .vartical_rol_aria{
+        display: none;
+    }
+    .details_row{
+        width: 100%;
+        display: block;
+    }
+    .right_side{
+        margin-top: 50px;
+    }
+    svg.radial-progress {
+        height: auto;
+        max-width: 150px;
+    }
+    .skill_ratio h3{
+        color: #00eeff;
+        font-size: 15px;
+        margin-left: 10px;
+    }
+    .details_Box h4{
+        font-size: 25px;
+        color: #04ffd5;
+    }
+    .details_Box p{
+        font-size: 16px;
+    }
+}
+@media (max-width:992px){
+    .details_Box_hidden{
+        height: 500px;
+    }
+}
+/* ----------- responsive section end--------------------- */
