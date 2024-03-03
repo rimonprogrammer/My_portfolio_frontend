@@ -48,7 +48,7 @@ function Portfolio() {
                                               <div className='p-2'>
                                                   <p className='text-light m-0 '>Technology: {technology}</p>
                                                   <Link to={`/ParticularProject/${id}`} className='text-decoration-none'>
-                                                      <h4 className='text-light m-0 mb-2 project-title'>{title}</h4>     
+                                                        
                                                       <button className='view-details-btn'>View Details</button>
                                                   </Link>
                                               </div>
